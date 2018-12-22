@@ -10,7 +10,6 @@
 ![Figure_1_3](Figure_1_3.svg)
 ![Figure_1_4](Figure_1_4.svg)
 위 그림은 6 Dof pose 실습 Fugure_1을 여러 방향에서 본 그림입니다
-![Data #1 – Validation](Data #1 – Validation.xlsx)
 
 ### Fugure_2
 
@@ -20,4 +19,3 @@
 ![Figure_2_3](Figure_2_3.svg)
 ![Figure_2_4](Figure_2_4.svg)
 위 그림은 6 Dof pose 실습 Fugure_2을 여러 방향에서 본 그림입니다
-![Data #2 – Validation](Data #2 – Validation.xlsx)
